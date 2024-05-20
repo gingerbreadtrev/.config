@@ -1,0 +1,5 @@
+# ignore any subfolder named custom
+**/custom
+
+# raycast
+raycast/extensions/*
